@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iann0
+- 👋 Hi, I’m @ian_akombe
 - 👀 I’m interested in Android App Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on App Development
