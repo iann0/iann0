@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iann0<br/>
-- 👀 I’m interested in networking & cyber security<br/>
+- 👀 I'm in networking & cyber security<br/>
 - 📫email: akombeian@gmail.com
 
 <!---
