@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @iann0<br/>
+- 👋 Hi, I’m Ian<br/>
 - 👀 I'm in networking & cyber security<br/>
-- 📫email: akombeian@gmail.com
 
 <!---
 iann0/iann0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
